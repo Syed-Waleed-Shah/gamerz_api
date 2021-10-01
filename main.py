@@ -1,11 +1,10 @@
 from logging import debug
 from fastapi import FastAPI
 import models
-from database import SessionLocal, engine
 from routers import room, user
 import uvicorn
 
-models.Base.metadata.create_all(bind=engine)
+
 
 app = FastAPI() 
 
