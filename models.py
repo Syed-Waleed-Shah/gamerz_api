@@ -1,30 +1,55 @@
-from sqlalchemy import Column, Integer, String
-from sqlalchemy.sql.sqltypes import DateTime
-from sqlalchemy.types import Date
+# This file will contain all the model classes which inherit from pydantic BaseModel. These models will be used in API request body
+from pydantic import BaseModel, Field
+from sqlalchemy.sql.sqltypes import DateTime 
 from datetime import datetime
-from database import Base
+from typing import Optional
+# ---------------------------------------------------------------------
+# 1) User schemas
+# ---------------------------------------------------------------------
+class User(BaseModel):
+    name: str = Field(...) 
+    username: str = Field(...) 
+    phone: str = Field(...) 
+    password: str = Field(...) 
+    country: str = Optional[str] 
+    fav_game: str = Optional[str]
+
+    class Config:
+        orm_mode = True
 
 
-# This module represents a room
-class Room(Base):
-    __tablename__ = "rooms"
 
-    id = Column(Integer, primary_key=True, index=True)
-    room_id = Column(Integer)
-    password = Column(String) 
-    game = Column(String) 
-    server = Column(String)
-    date = Column(DateTime, default=datetime.now)
-  
+class UserCreate(BaseModel):
+    name: str = Field(...) 
+    phone: str = Field(...) 
+    password: str = Field(...) 
+    country: str = None 
+    fav_game: str = None
 
-# This module represents a user
-class User(Base):
-    __tablename__ = 'users'
-    id = Column(Integer, primary_key=True, index=True) 
-    name = Column(String) 
-    username = Column(String) 
-    phone = Column(String) 
-    password = Column(String) 
-    country = Column(String) 
-    fav_game = Column(String) 
+    class Config:
+        orm_mode = True
+
+class UserLogin(BaseModel):
+    phone: str = Field(...) 
+    password: str = Field(...)
+
+    class Config:
+        orm_mode = True
+
+
+
+# ---------------------------------------------------------------------
+# 2) Room schemas
+# ---------------------------------------------------------------------
+class RoomCreate(BaseModel):
+    room_id: int = Field(..., gt=0)
+    password: str  = Field(default=None)
+    game: str  = Field(..., min_length=1)
+    server: str  = Field(..., min_length=1)
+    map: str  = Field(..., min_length=1)
+    type: str  = Field(...,min_length=1)
+
+
+
+
 
