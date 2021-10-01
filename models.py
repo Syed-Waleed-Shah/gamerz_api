@@ -49,6 +49,13 @@ class RoomCreate(BaseModel):
     map: str  = Field(..., min_length=1)
     type: str  = Field(...,min_length=1)
 
+class RoomUpdate(BaseModel):
+    room_id: Optional[int] = None
+    password: Optional[str] = None
+    game: Optional[str] = None
+    server: Optional[str] = None
+    map: Optional[str] = None
+    type: Optional[str] = None
 
 
 
