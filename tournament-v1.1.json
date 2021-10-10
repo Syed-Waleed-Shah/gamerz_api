@@ -1,0 +1,1928 @@
+[
+  {
+    "name": "PUBGM",
+    "players": 100,
+    "game_type": [
+      {
+        "type": "SOLO",
+        "tournaments": [
+          {
+            "teams": 200,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 50 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    50 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 100 qualified Players will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 50 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 300,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 33 Players from each group will qualify for the final match.\n    In the final match 99 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    33 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 99 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 66 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 198 qualified Players will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 50 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 400,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 25 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    25 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 200 qualified Players will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 50 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 500,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 20 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    20 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 60 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 300 qualified Players will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 33 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 99 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 600,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 16 Players from each group will qualify for the final match.\n    In the final match 96 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    16 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 96 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 300 qualified Players will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 33 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 99 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 700,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 14 Players from each group will qualify for the final match.\n    In the final match 98 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    14 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 98 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 57 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 399 qualified Players will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 25 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 800,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 12 Players from each group will qualify for the final match.\n    In the final match 96 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    12 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 96 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 400 qualified Players will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 25 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 900,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 11 Players from each group will qualify for the final match.\n    In the final match 99 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    11 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 99 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 55 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 495 qualified Players will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 20 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 1000,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 10 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    10 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 500 qualified Players will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 20 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "DUO",
+        "tournaments": [
+          {
+            "teams": 100,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 25 Teams from each group will qualify for the final match.\n    In the final match 50 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    25 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 50 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 50 qualified Teams will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 25 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 25 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 150,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 16 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    16 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 33 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 99 qualified Teams will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 25 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 200,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 12 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    12 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 100 qualified Teams will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 25 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 250,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 10 Teams from each group will qualify for the final match.\n    In the final match 50 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    10 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 50 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 30 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 150 qualified Teams will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 16 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 300,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 8 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    8 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 150 qualified Teams will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 16 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 350,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 7 Teams from each group will qualify for the final match.\n    In the final match 49 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    7 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 49 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 28 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 196 qualified Teams will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 12 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 400,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 6 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    6 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 200 qualified Teams will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 12 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 450,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 5 Teams from each group will qualify for the final match.\n    In the final match 45 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    5 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 45 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 27 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 243 qualified Teams will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 10 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 500,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 5 Teams from each group will qualify for the final match.\n    In the final match 50 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    5 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 50 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 250 qualified Teams will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 10 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SQUAD",
+        "tournaments": [
+          {
+            "teams": 50,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 12 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    12 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 24 qualified Squads will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 12 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 12 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 75,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 8 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    8 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 16 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 48 qualified Squads will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 12 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 100,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 6 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    6 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 48 qualified Squads will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 12 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 125,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 5 Squads from each group will qualify for the final match.\n    In the final match 25 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    5 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 25 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 15 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 75 qualified Squads will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 8 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 150,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 4 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    4 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 72 qualified Squads will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 8 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 175,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 3 Squads from each group will qualify for the final match.\n    In the final match 21 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    3 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 21 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 14 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 98 qualified Squads will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 6 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 200,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 3 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    3 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 96 qualified Squads will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 6 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 225,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 2 Squads from each group will qualify for the final match.\n    In the final match 18 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    2 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 18 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 13 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 117 qualified Squads will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 5 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 25 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 250,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 2 Squads from each group will qualify for the final match.\n    In the final match 20 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    2 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 20 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 120 qualified Squads will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 5 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 25 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BGMI",
+    "players": 100,
+    "game_type": [
+      {
+        "type": "SOLO",
+        "tournaments": [
+          {
+            "teams": 200,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 50 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    50 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 100 qualified Players will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 50 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 300,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 33 Players from each group will qualify for the final match.\n    In the final match 99 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    33 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 99 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 66 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 198 qualified Players will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 50 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 400,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 25 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    25 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 200 qualified Players will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 50 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 500,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 20 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    20 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 60 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 300 qualified Players will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 33 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 99 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 600,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 16 Players from each group will qualify for the final match.\n    In the final match 96 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    16 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 96 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 300 qualified Players will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 33 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 99 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 700,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 14 Players from each group will qualify for the final match.\n    In the final match 98 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    14 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 98 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 57 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 399 qualified Players will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 25 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 800,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 12 Players from each group will qualify for the final match.\n    In the final match 96 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    12 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 96 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 400 qualified Players will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 25 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 900,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 11 Players from each group will qualify for the final match.\n    In the final match 99 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    11 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 99 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 55 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 495 qualified Players will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 20 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 1000,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 10 Players from each group will qualify for the final match.\n    In the final match 100 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    10 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 100 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 50 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 500 qualified Players will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 20 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 100 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "DUO",
+        "tournaments": [
+          {
+            "teams": 100,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 25 Teams from each group will qualify for the final match.\n    In the final match 50 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    25 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 50 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 50 qualified Teams will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 25 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 25 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 150,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 16 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    16 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 33 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 99 qualified Teams will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 25 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 200,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 12 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    12 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 100 qualified Teams will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 25 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 250,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 10 Teams from each group will qualify for the final match.\n    In the final match 50 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    10 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 50 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 30 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 150 qualified Teams will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 16 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 300,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 8 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    8 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 150 qualified Teams will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 16 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 350,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 7 Teams from each group will qualify for the final match.\n    In the final match 49 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    7 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 49 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 28 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 196 qualified Teams will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 12 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 400,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 6 Teams from each group will qualify for the final match.\n    In the final match 48 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    6 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 48 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 200 qualified Teams will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 12 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 48 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 450,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 5 Teams from each group will qualify for the final match.\n    In the final match 45 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    5 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 45 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 27 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 243 qualified Teams will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 10 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 500,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 5 Teams from each group will qualify for the final match.\n    In the final match 50 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    5 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 50 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 25 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 250 qualified Teams will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 10 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 50 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SQUAD",
+        "tournaments": [
+          {
+            "teams": 50,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 12 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    12 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 24 qualified Squads will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 12 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 12 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 75,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 8 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    8 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 16 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 48 qualified Squads will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 12 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 100,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 6 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    6 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 48 qualified Squads will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 12 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 125,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 5 Squads from each group will qualify for the final match.\n    In the final match 25 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    5 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 25 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 15 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 75 qualified Squads will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 8 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 150,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 4 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    4 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 72 qualified Squads will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 8 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 175,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 3 Squads from each group will qualify for the final match.\n    In the final match 21 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    3 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 21 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 14 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 98 qualified Squads will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 6 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 200,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 3 Squads from each group will qualify for the final match.\n    In the final match 24 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    3 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 96 qualified Squads will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 6 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 24 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 225,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 2 Squads from each group will qualify for the final match.\n    In the final match 18 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    2 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 18 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 13 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 117 qualified Squads will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 5 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 25 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 250,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 2 Squads from each group will qualify for the final match.\n    In the final match 20 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    2 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 20 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 12 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 120 qualified Squads will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 5 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 25 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PUBGM Lite",
+    "players": 60,
+    "game_type": [
+      {
+        "type": "SOLO",
+        "tournaments": [
+          {
+            "teams": 120,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 30 Players from each group will qualify for the final match.\n    In the final match 60 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    30 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 60 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 30 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 60 qualified Players will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 30 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 30 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 180,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 20 Players from each group will qualify for the final match.\n    In the final match 60 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    20 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 60 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 40 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 120 qualified Players will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 30 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 240,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 15 Players from each group will qualify for the final match.\n    In the final match 60 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    15 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 60 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 30 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 120 qualified Players will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 30 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 300,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 12 Players from each group will qualify for the final match.\n    In the final match 60 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    12 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 60 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 36 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 180 qualified Players will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 20 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 360,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 10 Players from each group will qualify for the final match.\n    In the final match 60 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    10 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 60 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 30 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 180 qualified Players will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 20 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 420,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 8 Players from each group will qualify for the final match.\n    In the final match 56 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    8 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 56 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 34 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 238 qualified Players will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 15 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 480,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 7 Players from each group will qualify for the final match.\n    In the final match 56 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    7 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 56 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 30 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 240 qualified Players will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 15 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 540,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 6 Players from each group will qualify for the final match.\n    In the final match 54 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    6 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 54 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 33 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 297 qualified Players will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 12 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 600,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 6 Players from each group will qualify for the final match.\n    In the final match 60 Players will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    6 Players from each group will qualify for the FINALS!!\n    2) FINALS\n    All 60 qualified Players will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 30 Players\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 300 qualified Players will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 12 Players from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 60 qualified Players wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "DUO",
+        "tournaments": [
+          {
+            "teams": 60,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 15 Teams from each group will qualify for the final match.\n    In the final match 30 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    15 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 30 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 15 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 30 qualified Teams will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 15 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 15 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 90,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 10 Teams from each group will qualify for the final match.\n    In the final match 30 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    10 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 30 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 20 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 60 qualified Teams will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 15 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 30 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 120,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 7 Teams from each group will qualify for the final match.\n    In the final match 28 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    7 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 28 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 15 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 60 qualified Teams will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 15 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 30 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 150,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 6 Teams from each group will qualify for the final match.\n    In the final match 30 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    6 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 30 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 18 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 90 qualified Teams will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 10 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 30 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 180,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 5 Teams from each group will qualify for the final match.\n    In the final match 30 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    5 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 30 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 15 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 90 qualified Teams will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 10 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 30 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 210,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 4 Teams from each group will qualify for the final match.\n    In the final match 28 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    4 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 28 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 17 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 119 qualified Teams will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 7 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 28 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 240,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 3 Teams from each group will qualify for the final match.\n    In the final match 24 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    3 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 24 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 15 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 120 qualified Teams will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 7 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 28 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 270,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 3 Teams from each group will qualify for the final match.\n    In the final match 27 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    3 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 27 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 16 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 144 qualified Teams will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 6 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 30 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 300,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 3 Teams from each group will qualify for the final match.\n    In the final match 30 Teams will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    3 Teams from each group will qualify for the FINALS!!\n    2) FINALS\n    All 30 qualified Teams will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 15 Teams\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 150 qualified Teams will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 6 Teams from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 30 qualified Teams wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SQUAD",
+        "tournaments": [
+          {
+            "teams": 30,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 2,
+                "total_matches": 3,
+                "info": "\n    In this tournament there will be 2 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 2 group stage matches top 7 Squads from each group will qualify for the final match.\n    In the final match 14 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 2,
+                "total_matches": 8,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 2 groups. In each group 3 matches will be played. After playing all 6 group matches\n    7 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 14 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 2,
+                "total_matches": 15,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 2 groups. In each group 5 matches will be played. After playing all 10 matches, 7 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 14 qualified Squads will be distributed in 1 groups. Now, 3 matches will be played in each group.\n    After completing all 3 matches, 7 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 7 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 45,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 3,
+                "total_matches": 4,
+                "info": "\n    In this tournament there will be 3 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 3 group stage matches top 5 Squads from each group will qualify for the final match.\n    In the final match 15 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 3,
+                "total_matches": 11,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 3 groups. In each group 3 matches will be played. After playing all 9 group matches\n    5 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 15 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 3,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 3 groups. In each group 5 matches will be played. After playing all 15 matches, 10 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 30 qualified Squads will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 7 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 14 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 60,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 4,
+                "total_matches": 5,
+                "info": "\n    In this tournament there will be 4 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 4 group stage matches top 3 Squads from each group will qualify for the final match.\n    In the final match 12 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 4,
+                "total_matches": 14,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 4 groups. In each group 3 matches will be played. After playing all 12 group matches\n    3 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 12 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 4,
+                "total_matches": 28,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 4 groups. In each group 5 matches will be played. After playing all 20 matches, 7 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 28 qualified Squads will be distributed in 2 groups. Now, 3 matches will be played in each group.\n    After completing all 6 matches, 7 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 14 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 75,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 5,
+                "total_matches": 6,
+                "info": "\n    In this tournament there will be 5 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 5 group stage matches top 3 Squads from each group will qualify for the final match.\n    In the final match 15 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 5,
+                "total_matches": 17,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 5 groups. In each group 3 matches will be played. After playing all 15 group matches\n    3 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 15 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 5,
+                "total_matches": 33,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 5 groups. In each group 5 matches will be played. After playing all 25 matches, 9 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 45 qualified Squads will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 5 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 15 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 90,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 6,
+                "total_matches": 7,
+                "info": "\n    In this tournament there will be 6 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 6 group stage matches top 2 Squads from each group will qualify for the final match.\n    In the final match 12 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 6,
+                "total_matches": 20,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 6 groups. In each group 3 matches will be played. After playing all 18 group matches\n    2 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 12 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 6,
+                "total_matches": 41,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 6 groups. In each group 5 matches will be played. After playing all 30 matches, 7 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 42 qualified Squads will be distributed in 3 groups. Now, 3 matches will be played in each group.\n    After completing all 9 matches, 5 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 15 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 105,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 7,
+                "total_matches": 8,
+                "info": "\n    In this tournament there will be 7 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 7 group stage matches top 2 Squads from each group will qualify for the final match.\n    In the final match 14 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 7,
+                "total_matches": 23,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 7 groups. In each group 3 matches will be played. After playing all 21 group matches\n    2 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 14 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 7,
+                "total_matches": 46,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 7 groups. In each group 5 matches will be played. After playing all 35 matches, 8 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 56 qualified Squads will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 3 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 12 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 120,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 8,
+                "total_matches": 9,
+                "info": "\n    In this tournament there will be 8 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 8 group stage matches top 1 Squads from each group will qualify for the final match.\n    In the final match 8 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 8,
+                "total_matches": 26,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 8 groups. In each group 3 matches will be played. After playing all 24 group matches\n    1 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 8 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 8,
+                "total_matches": 54,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 8 groups. In each group 5 matches will be played. After playing all 40 matches, 7 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 56 qualified Squads will be distributed in 4 groups. Now, 3 matches will be played in each group.\n    After completing all 12 matches, 3 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 12 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 135,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 9,
+                "total_matches": 10,
+                "info": "\n    In this tournament there will be 9 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 9 group stage matches top 1 Squads from each group will qualify for the final match.\n    In the final match 9 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 9,
+                "total_matches": 29,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 9 groups. In each group 3 matches will be played. After playing all 27 group matches\n    1 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 9 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 9,
+                "total_matches": 59,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 9 groups. In each group 5 matches will be played. After playing all 45 matches, 8 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 72 qualified Squads will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 3 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 15 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          },
+          {
+            "teams": 150,
+            "tournament_types": [
+              {
+                "name": "knockout",
+                "total_groups": 10,
+                "total_matches": 11,
+                "info": "\n    In this tournament there will be 10 groups. In the first knockout stage 1 game will be played in each group.\n    After completing all 10 group stage matches top 1 Squads from each group will qualify for the final match.\n    In the final match 10 Squads will play 1 game against each other.\n    This final match will decide the winners of this tournament!!    \n    "
+              },
+              {
+                "name": "scrim",
+                "total_groups": 10,
+                "total_matches": 32,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round, there will be 10 groups. In each group 3 matches will be played. After playing all 30 group matches\n    1 Squads from each group will qualify for the FINALS!!\n    2) FINALS\n    All 10 qualified Squads will play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              },
+              {
+                "name": "grand tournament",
+                "total_groups": 10,
+                "total_matches": 67,
+                "info": "\n    1) QUALIFIERS ROUND\n    In this round. there will be 10 groups. In each group 5 matches will be played. After playing all 50 matches, 7 Squads\n    from each group will qualify for the SEMIFINALS ROUND !!\n    2) SEMIFINALS ROUND\n    In this round, all 70 qualified Squads will be distributed in 5 groups. Now, 3 matches will be played in each group.\n    After completing all 15 matches, 3 Squads from each group will qualify for the FINALS!!\n    3) FINALS\n    All the 15 qualified Squads wil play 2 matches in the finals. These final matches will decide the winners of the tournament!!\n    "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
